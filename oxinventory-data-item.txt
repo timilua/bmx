@@ -1,0 +1,5 @@
+['bmx'] = {
+	label = 'BMX',
+	weight = 300,
+    stack = false,
+},
